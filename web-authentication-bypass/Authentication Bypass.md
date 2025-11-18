@@ -59,7 +59,7 @@ ffuf -w /usr/share/wordlists/SecLists/Usernames/Names/names.txt \\
 The scan successfully enumerated several valid user accounts, including
 three additional usernames not visible from the front-end interface.
 
-<img src="media/media/image1.png" style="width:5in;height:3.06995in"
+<img src="media/Image1.png" style="width:5in;height:3.06995in"
 alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 **2. Credential Bruteforcing with Valid Usernames**
@@ -221,3 +221,4 @@ These vulnerabilities illustrate the importance of:
 
 This exercise reinforces key penetration-testing skills relevant to
 real-world web-application security assessments.
+
