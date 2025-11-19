@@ -12,7 +12,7 @@ This lab demonstrates different ways website authentication methods can be bypas
 ---
 
 ## 📄 Full Report
-See: [`report.md`](./Reports/Web-Authentication-Bypass/report.md)
+See: [`report.md`](web-authentication-bypass/Authentication Bypass.md)
 
 ---
 
