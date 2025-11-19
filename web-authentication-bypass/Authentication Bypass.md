@@ -111,7 +111,7 @@ A valid credential pair was recovered:
 
 This confirmed weak password hygiene and lack of account lockout.
 
-<img src="media/media/Image2.png" style="width:5in;height:3.5019in"
+<img src="media/Image2.png" style="width:5in;height:3.5019in"
 alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 **3. Password Reset Token Exposure**
@@ -141,7 +141,7 @@ Curl
 The server responded with verbose output revealing internal reset-token
 data, confirming insufficient access control and input sanitization.
 
-<img src="media/media/Image3.png" style="width:5in;height:3.26437in"
+<img src="media/Image3.png" style="width:5in;height:3.26437in"
 alt="A computer screen shot of a computer screen AI-generated content may be incorrect." />
 
 **4. Hijacking the Password Reset Mechanism**
@@ -191,7 +191,7 @@ http://10.201.79.189/customers/reset/11c0ee3c666531226637140f56a8d8d2
 Using this link, the attacker can reset the victim’s password and gain
 direct access to the account.
 
-<img src="media/media/Image4.png" style="width:5in;height:3.41515in"
+<img src="Image1.png" style="width:5in;height:3.41515in"
 alt="A screen shot of a computer AI-generated content may be incorrect." />
 
 **Conclusion**
@@ -221,6 +221,7 @@ These vulnerabilities illustrate the importance of:
 
 This exercise reinforces key penetration-testing skills relevant to
 real-world web-application security assessments.
+
 
 
 
