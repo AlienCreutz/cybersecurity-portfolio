@@ -191,7 +191,7 @@ http://10.201.79.189/customers/reset/11c0ee3c666531226637140f56a8d8d2
 Using this link, the attacker can reset the victim’s password and gain
 direct access to the account.
 
-<img src="Image4.png" style="width:5in;height:3.41515in"
+<img src="media/Image4.png" style="width:5in;height:3.41515in"
 alt="A screen shot of a computer AI-generated content may be incorrect." />
 
 **Conclusion**
@@ -221,6 +221,7 @@ These vulnerabilities illustrate the importance of:
 
 This exercise reinforces key penetration-testing skills relevant to
 real-world web-application security assessments.
+
 
 
 
